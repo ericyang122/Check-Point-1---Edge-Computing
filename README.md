@@ -1,4 +1,10 @@
 # Check-Point-1---Edge-Computing
+# Eric Koigim Navarrete Yang rm563290 
+# Pedro Gomes Souza 563191 
+# Henrique fara brigo 563323 
+# Raul laguna Aborleya Andrade Rm562684 
+# Piettra Boschini Sattolo Rm562538 
+# Guilherme Guimaraes do Reis Souza Rm564226
 int ledVerde = 13;                      - aqui estou falando que o led verde esta no pin 13 
 int ledAmarelo = 12;                    - aqui estou falando que o amarelo esta no pin 12
 int ledVermelho = 11;                   - aqui estou falando que o vermelho esta no pin 11
